@@ -7,6 +7,7 @@ This repository will develop a machine learning model to forecast short-term ret
 ## Data Acquisition:
 
 Data will be pulled from this Kaggle link: https://www.kaggle.com/competitions/g-research-crypto-forecasting/overview
+
 The dataset will be explored to understand its structure and content.
 
 ## Data Cleaning and Preprocessing:
